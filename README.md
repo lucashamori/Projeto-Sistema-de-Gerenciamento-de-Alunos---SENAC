@@ -53,7 +53,7 @@ Desenvolva um sistema em Python para gerenciar informações de alunos. O sistem
         - `matriculas_cursos` (dict): Dicionário de matrículas com sets de cursos.
     - **Retorno**: Nenhum.
 
-### 3. Exemplos de uso para cada funcionalidade implementada
+### Exemplos de uso para cada funcionalidade implementada
 
 ### 1. Cadastro de Alunos
 
